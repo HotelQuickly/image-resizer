@@ -1,5 +1,5 @@
 {
-  "name": "image-resizer",
+  "name": "@hotelquickly/image-resizer",
   "version": "1.6.0",
   "description": "On-the-fly image resizing and optimization using node and sharp (libvips). Heroku ready!",
   "main": "index.js",
